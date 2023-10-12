@@ -1,0 +1,8 @@
+# Ignorera den virtualla miljö
+venv/
+
+# Ignorera vscode inställningar
+.vscode/
+
+# Ignorera pycache => Python fel
+__pycache__/
