@@ -11,3 +11,7 @@ def contact():
 @app.route("/omoss")
 def omoss():
     return "<h1>Python gänget!</h1>"
+
+@app.route("/test")
+def contact():
+    return "<h1>Test!</h1>"
